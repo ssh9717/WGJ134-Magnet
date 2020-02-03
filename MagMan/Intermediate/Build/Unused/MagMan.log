@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+  Creating makefile for MagManEditor (ini files are newer than makefile)
+  Parsing headers for MagManEditor
+    Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MagManEditor in 20.5897425 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] MagManPawn.cpp
+    [2/4] UE4Editor-MagMan.lib
+       Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan.exp
+    [3/4] UE4Editor-MagMan.dll
+       Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan.suppressed.exp
+    [4/4] MagManEditor.target
+  Total time in Parallel executor: 6.92 seconds
+  Total execution time: 30.88 seconds

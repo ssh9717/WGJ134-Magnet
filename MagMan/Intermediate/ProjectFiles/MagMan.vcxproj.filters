@@ -42,4 +42,32 @@
       <Filter>Source\MagMan</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MagMan\MagManPlayerController.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\MagManPawn.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\MagManAIController.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\EnemyPawn.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MagMan\MagManPlayerController.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\MagManPawn.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\MagManAIController.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\EnemyPawn.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

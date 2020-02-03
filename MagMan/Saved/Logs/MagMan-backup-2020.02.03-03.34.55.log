@@ -1,0 +1,1233 @@
+﻿Log file open, 02/03/20 12:19:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagMan
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.574864
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.03-03.19.33:948][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:949][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-03.19.33:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-03.19.33:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-03.19.33:955][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-03.19.33:955][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.03-03.19.33:970][  0]LogHAL: Display: Platform has ~ 16 GB [17129635840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.03-03.19.33:970][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.03-03.19.33:970][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.02.03-03.19.33:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.03-03.19.33:971][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.03-03.19.33:971][  0]LogInit: Computer: DESKTOP-65TKGTQ
+[2020.02.03-03.19.33:971][  0]LogInit: User: ssh97
+[2020.02.03-03.19.33:971][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.03-03.19.33:971][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.03-03.19.33:972][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.02.03-03.19.33:972][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.03-03.19.33:972][  0]LogMemory: Process Physical Memory: 99.85 MB used, 99.85 MB peak
+[2020.02.03-03.19.33:972][  0]LogMemory: Process Virtual Memory: 90.77 MB used, 90.77 MB peak
+[2020.02.03-03.19.33:972][  0]LogMemory: Physical Memory: 6773.68 MB used,  9562.41 MB free, 16336.09 MB total
+[2020.02.03-03.19.33:972][  0]LogMemory: Virtual Memory: 4677.09 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.02.03-03.19.34:012][  0]LogInit: Using OS detected language (ko-KR).
+[2020.02.03-03.19.34:012][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.02.03-03.19.34:013][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.02.03-03.19.34:094][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.03-03.19.34:165][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.03-03.19.34:165][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.03-03.19.34:480][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.03-03.19.34:480][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.03-03.19.34:565][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.03-03.19.34:565][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.03-03.19.34:568][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.03-03.19.34:568][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.03-03.19.34:568][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.03-03.19.34:578][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.03-03.19.34:579][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.03-03.19.34:579][  0]LogWindows: EnumDisplayDevices:
+[2020.02.03-03.19.34:579][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.02.03-03.19.34:580][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.03-03.19.34:581][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.03-03.19.34:582][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.03-03.19.34:583][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.03-03.19.34:583][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.03-03.19.34:583][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.03-03.19.34:583][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.03-03.19.34:583][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.02.03-03.19.34:641][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.03-03.19.34:651][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-03.19.34:651][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-03.19.34:651][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-03.19.34:659][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.03-03.19.34:705][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061085).
+[2020.02.03-03.19.35:184][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.03-03.19.35:204][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.03-03.19.35:222][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.03-03.19.35:241][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.03-03.19.35:260][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.03-03.19.35:279][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.03-03.19.35:298][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.03-03.19.35:317][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.03-03.19.35:328][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.03-03.19.35:432][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.03-03.19.35:433][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.03-03.19.35:436][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.03-03.19.35:494][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.03-03.19.35:494][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.03-03.19.35:525][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.03-03.19.35:525][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.03-03.19.35:541][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.03-03.19.35:557][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.03-03.19.35:574][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.03-03.19.35:591][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.03-03.19.35:649][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.03-03.19.35:649][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.03-03.19.35:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.03-03.19.35:666][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.03-03.19.35:755][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Intermediate/Shaders/WorkingDirectory/6436/).
+[2020.02.03-03.19.35:755][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ssh97/AppData/Local/Temp/UnrealShaderWorkingDir/44F0E2434F4B1C366FAF29975F48B925/'.
+[2020.02.03-03.19.35:759][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.03-03.19.35:760][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.03-03.19.35:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.03-03.19.36:351][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-03.19.36:399][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.03-03.19.36:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.03-03.19.36:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-03.19.36:412][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.03-03.19.36:425][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ssh97/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.03-03.19.36:425][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.03-03.19.36:425][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.03-03.19.36:448][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.03-03.19.36:449][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.03-03.19.36:450][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.03-03.19.36:566][  0]LogAssetRegistry: FAssetRegistry took 0.0362 seconds to start up
+[2020.02.03-03.19.37:010][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-03.19.37:175][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.03-03.19.37:175][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.03-03.19.37:175][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.03-03.19.37:175][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.03-03.19.37:175][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.03-03.19.37:189][  0]LogNetVersion: MagMan 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1687053041)
+[2020.02.03-03.19.37:669][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061675 seconds
+[2020.02.03-03.19.37:679][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.03-03.19.37:679][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.03-03.19.37:679][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.03-03.19.38:892][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.03-03.19.38:923][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.03-03.19.39:400][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.03-03.19.39:401][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.03-03.19.39:403][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.03-03.19.39:405][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.03-03.19.39:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.03-03.19.39:922][  0]LogOcInput: OculusInput pre-init called
+[2020.02.03-03.19.40:777][  0]LogEngine: Initializing Engine...
+[2020.02.03-03.19.40:778][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.03-03.19.40:779][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.03-03.19.40:994][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.03-03.19.41:015][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.03-03.19.41:186][  0]LogInit: XAudio2 using '스피커(Britz BR-Orion Plus)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-03.19.41:264][  0]LogInit: FAudioDevice initialized.
+[2020.02.03-03.19.41:264][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.03-03.19.41:537][  0]LogDerivedDataCache: Saved boot cache 0.27s 74MB C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.03-03.19.41:544][  0]LogInit: Texture streaming: Enabled
+[2020.02.03-03.19.41:576][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.03-03.19.41:617][  0]LogInit: Transaction tracking system initialized
+[2020.02.03-03.19.41:663][  0]BlueprintLog: New page: 에디터 로드
+[2020.02.03-03.19.41:861][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.02.03-03.19.42:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/' took 0.01s
+[2020.02.03-03.19.42:272][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.03-03.19.42:272][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.03-03.19.42:548][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.03-03.19.42:549][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-03.19.42:549][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.03-03.19.42:554][  0]MapCheck: New page: 맵 체크
+[2020.02.03-03.19.42:554][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.03-03.19.42:594][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.03-03.19.42:689][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.03-03.19.42:695][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-03.19.42:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.03-03.19.42:736][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-03.19.42:737][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.386ms.
+[2020.02.03-03.19.42:737][  0]LogFileHelpers: Loading map 'Template_Default' took 0.187
+[2020.02.03-03.19.42:932][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.19.42:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.19.42:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.19.42:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.19.42:975][  0]LogCollectionManager: Loaded 0 collections in 0.002901 seconds
+[2020.02.03-03.19.43:025][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Collections/' took 0.01s
+[2020.02.03-03.19.43:025][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Developers/ssh97/Collections/' took 0.01s
+[2020.02.03-03.19.43:025][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Collections/' took 0.01s
+[2020.02.03-03.19.43:025][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.03-03.19.43:037][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2733 classes and 661 folders.
+[2020.02.03-03.19.43:050][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.03-03.19.43:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:236][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:256][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-03.19.43:437][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.03-03.19.43:457][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.02.03-03.19.43:582][  0]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.03-03.19.43:585][  0]LogSlate: Took 0.001857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.03-03.19.43:589][  0]LogSlate: Took 0.001772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.02.03-03.19.43:589][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.03-03.19.43:599][  0]LogSlate: Took 0.006034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.03-03.19.43:761][  0]LogRenderer: Reallocating scene render targets to support 1212x652 Format 10 NumSamples 1 (Frame:1).
+[2020.02.03-03.19.43:933][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.03-03.19.43:933][  0]LogLoad: (Engine Initialization) Total time: 12.76 seconds
+[2020.02.03-03.19.43:933][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.03-03.19.44:015][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.02.03-03.19.44:114][  0]LogRenderer: Reallocating scene render targets to support 1212x668 Format 10 NumSamples 1 (Frame:3).
+[2020.02.03-03.19.47:482][387]LogAssetRegistry: Asset discovery search completed in 10.9382 seconds
+[2020.02.03-03.19.47:484][387]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.03-03.19.47:484][387]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2020.02.03-03.25.54:775][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-03.26.45:119][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.26.55:362][125]LogSlate: Window '플러그인' being destroyed
+[2020.02.03-03.26.55:408][125]LogSlate: Window '플러그인' being destroyed
+[2020.02.03-03.26.55:408][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.02.03-03.27.07:838][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.27.54:158][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-03.27.54:941][213]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.02.03-03.27.59:319][727]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.03-03.28.01:735][ 11]Cmd: DELETE
+[2020.02.03-03.28.01:735][ 11]Cmd: ACTOR DELETE
+[2020.02.03-03.28.01:738][ 11]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.02.03-03.28.01:784][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.03-03.28.01:784][ 11]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.02.03-03.28.02:179][ 58]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.03-03.28.03:916][261]Cmd: DELETE
+[2020.02.03-03.28.03:916][261]Cmd: ACTOR DELETE
+[2020.02.03-03.28.03:917][261]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.03-03.28.03:956][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.02.03-03.28.03:956][261]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.02.03-03.28.04:459][321]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.02.03-03.28.05:172][403]Cmd: DELETE
+[2020.02.03-03.28.05:172][403]Cmd: ACTOR DELETE
+[2020.02.03-03.28.05:174][403]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.02.03-03.28.05:213][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.03-03.28.05:213][403]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.03-03.28.06:583][567]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.02.03-03.28.08:357][774]Cmd: DELETE
+[2020.02.03-03.28.08:357][774]Cmd: ACTOR DELETE
+[2020.02.03-03.28.08:358][774]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2020.02.03-03.28.08:361][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.28.10:059][774]LogSlate: Window '메시지' being destroyed
+[2020.02.03-03.28.10:143][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.02.03-03.28.10:143][774]LogEditorActor: Deleted 0 Actors (1.787 secs)
+[2020.02.03-03.28.11:212][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.03-03.28.12:112][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.28.13:626][173]LogSlate: Took 0.006451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.03-03.28.35:897][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.29.09:556][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-03.29.15:778][585]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.02.03-03.29.15:781][585]LogSlate: Took 0.002577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.03-03.29.27:427][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.29.38:735][270]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-03.30.04:621][241]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-03.30.04:670][241]LogAssetEditorManager: Opening Asset editor for Material /Game/FloorMaterial.FloorMaterial
+[2020.02.03-03.30.04:673][241]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.05:001][241]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.05:022][241]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.05:022][241]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.05:114][241]LogSlate: Took 0.006403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.03-03.30.06:471][300]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.03-03.30.06:471][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.03-03.30.06:471][300]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.03-03.30.06:471][300]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.03-03.30.20:349][822]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.20:363][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.20:363][822]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.20:363][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.20:639][835]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.21:434][871]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.03-03.30.21:434][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.03-03.30.21:434][871]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.03-03.30.21:434][871]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.03-03.30.26:486][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.26:516][391]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.26:528][391]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.26:870][406]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.27:277][424]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.27:302][424]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.27:307][424]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.27:349][424]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.27:384][424]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.27:417][424]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.27:454][424]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.27:477][424]LogSlate: Window '색 선택 툴' being destroyed
+[2020.02.03-03.30.27:553][425]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.27:893][437]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.28:602][471]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.02.03-03.30.28:602][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.02.03-03.30.28:602][471]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.03-03.30.28:602][471]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.03-03.30.29:311][541]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.29:332][541]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.29:332][541]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.29:332][541]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.29:616][549]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.30:284][582]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.03-03.30.30:284][582]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.03-03.30.30:284][582]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.03-03.30.30:284][582]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.03-03.30.31:534][699]LogMaterialEditor: Saving and Compiling material FloorMaterial
+[2020.02.03-03.30.31:966][699]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.32:064][699]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.32:064][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.32:075][699]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.32:096][699]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.30.32:148][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.02.03-03.30.32:158][699]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.03-03.30.32:882][699]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.02.03-03.30.32:883][699]TextureStreamingBuild: Display: Compiling optional shaders took 0.736 seconds.
+[2020.02.03-03.30.32:921][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.02.03-03.30.35:018][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FloorMaterial" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset" SILENT=true
+[2020.02.03-03.30.35:038][699]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/FloorMaterial1BC514E64DDFA8FAC0DD82B57163270E.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset'
+[2020.02.03-03.30.40:390][972]LogSlate: Window '메시지' being destroyed
+[2020.02.03-03.30.40:437][972]LogSlate: Window 'FloorMaterial' being destroyed
+[2020.02.03-03.30.40:481][972]LogSlate: Window 'FloorMaterial' being destroyed
+[2020.02.03-03.30.42:401][185]LogAssetEditorManager: Opening Asset editor for Material /Game/FloorMaterial.FloorMaterial
+[2020.02.03-03.30.42:403][185]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.03-03.30.42:483][185]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.03-03.30.42:498][185]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.03-03.30.42:517][185]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-03.30.42:517][185]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.42:543][185]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.03-03.30.42:839][185]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-03.30.43:452][197]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.02.03-03.30.43:453][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.02.03-03.30.43:453][197]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.02.03-03.30.43:453][197]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.03-03.30.43:621][214]LogMaterialEditor: Saving and Compiling material FloorMaterial
+[2020.02.03-03.30.43:676][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FloorMaterial" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset" SILENT=true
+[2020.02.03-03.30.43:692][214]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/FloorMaterial023EB2F14301D7A3E5AFB392448C1C26.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset'
+[2020.02.03-03.30.44:996][329]LogSlate: Window 'FloorMaterial' being destroyed
+[2020.02.03-03.30.45:042][329]LogSlate: Window 'FloorMaterial' being destroyed
+[2020.02.03-03.30.49:718][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.30.49:826][869]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.03-03.30.49:837][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.03-03.30.49:837][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-03.30.49:838][869]PIE: New page: PIE 세션: Untitled_1 (2020. 2. 3. 오후 9:30:49)
+[2020.02.03-03.30.49:850][869]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.02.03-03.30.49:853][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2020.02.03-03.30.49:854][869]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.03-03.30.49:854][869]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2020.02.03-03.30.49:854][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003512s)
+[2020.02.03-03.30.49:893][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.03-03.30.50:053][869]LogInit: XAudio2 using '스피커(Britz BR-Orion Plus)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-03.30.50:084][869]LogInit: FAudioDevice initialized.
+[2020.02.03-03.30.50:125][869]LogLoad: Game class is 'GameModeBase'
+[2020.02.03-03.30.50:126][869]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.02.03-12.30.50
+[2020.02.03-03.30.50:127][869]LogWorld: Bringing up level for play took: 0.000485
+[2020.02.03-03.30.50:152][869]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.02.03-03.30.50:153][869]PIE: /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: -0.264
+[2020.02.03-03.30.50:153][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.03-03.30.50:991][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.03-03.30.50:991][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.30.51:022][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-03.30.51:022][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.03-03.30.51:064][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-03.30.51:067][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.03-03.30.51:096][969]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.03-03.30.55:308][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.31.20:004][253]Candidate modules for hot reload:
+[2020.02.03-03.31.20:004][253]  MagMan
+[2020.02.03-03.31.20:004][253]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,886 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: New page: 컴파일 - 2020. 2. 3. 오후 9:31:31
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Creating makefile for MagManEditor (.uproject file is newer)
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Reflection code generated for MagManEditor in 6.9975723 seconds
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Building 9 actions with 16 processes...
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [1/9] MagMan.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [2/9] MagMan.init.gen.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [3/9] MagManGameModeBase.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [4/9] MagManPlayerController.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [5/9] MagManPlayerController.gen.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [6/9] MagManGameModeBase.gen.cpp
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [7/9] UE4Editor-MagMan-0886.lib
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:      C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0886.lib ???̺귯?? ?? C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0886.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [8/9] UE4Editor-MagMan-0886.dll
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:      C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0886.suppressed.lib ???̺귯?? ?? C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0886.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.02.03-03.31.31:286][253]CompilerResultsLog:   [9/9] MagManEditor.target
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Total time in Parallel executor: 2.03 seconds
+[2020.02.03-03.31.31:286][253]CompilerResultsLog: Total execution time: 11.18 seconds
+[2020.02.03-03.31.31:286][253]LogMainFrame: MainFrame: Module compiling took 11.286 seconds
+[2020.02.03-03.31.31:323][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.03-03.31.31:337][253]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2734 classes and 663 folders.
+[2020.02.03-03.31.31:337][253]Display: HotReload took 11.4s.
+[2020.02.03-03.31.31:339][253]Warning: HotReload operation took 11.4s.
+[2020.02.03-03.31.31:998][253]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.02.03-03.31.32:046][253]LogHotReload: New module detected: UE4Editor-MagMan-0886.dll
+[2020.02.03-03.31.32:118][254]LogHotReload: Starting Hot-Reload from IDE
+[2020.02.03-03.31.32:210][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.03-03.31.32:551][254]LogClass: Could not find existing class MagManPlayerController in package /Script/MagMan for HotReload, assuming new class
+[2020.02.03-03.31.32:554][254]LogContentBrowser: Native class hierarchy updated for 'MagMan' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2020.02.03-03.31.32:557][254]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.03-03.31.32:774][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.03-03.31.32:788][254]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2735 classes and 663 folders.
+[2020.02.03-03.31.32:791][254]Display: HotReload took  0.7s.
+[2020.02.03-03.31.46:836][708]Candidate modules for hot reload:
+[2020.02.03-03.31.46:836][708]  MagMan
+[2020.02.03-03.31.46:836][708]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,7858 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: New page: 컴파일 - 2020. 2. 3. 오후 9:31:57
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Invalidating makefile for MagManEditor (source file added)
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Reflection code generated for MagManEditor in 6.8415127 seconds
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [1/6] MagMan.init.gen.cpp
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [2/6] MagManPawn.cpp
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [3/6] MagManPawn.gen.cpp
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [4/6] UE4Editor-MagMan-7858.lib
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:      C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7858.lib ???̺귯?? ?? C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7858.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [5/6] UE4Editor-MagMan-7858.dll
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:      C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7858.suppressed.lib ???̺귯?? ?? C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7858.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2020.02.03-03.31.57:990][708]CompilerResultsLog:   [6/6] MagManEditor.target
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Total time in Parallel executor: 2.09 seconds
+[2020.02.03-03.31.57:990][708]CompilerResultsLog: Total execution time: 11.04 seconds
+[2020.02.03-03.31.57:990][708]LogMainFrame: MainFrame: Module compiling took 11.157 seconds
+[2020.02.03-03.31.58:028][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.03-03.31.58:420][708]LogClass: Could not find existing class MagManPawn in package /Script/MagMan for HotReload, assuming new class
+[2020.02.03-03.31.58:424][708]LogContentBrowser: Native class hierarchy updated for 'MagMan' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2020.02.03-03.31.58:427][708]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.03-03.31.58:491][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.03-03.31.58:505][708]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2736 classes and 663 folders.
+[2020.02.03-03.31.58:505][708]Display: HotReload took 11.7s.
+[2020.02.03-03.31.58:507][708]Warning: HotReload operation took 11.7s.
+[2020.02.03-03.31.58:778][708]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.02.03-03.31.58:830][708]LogHotReload: New module detected: UE4Editor-MagMan-7858.dll
+[2020.02.03-03.31.58:902][709]LogHotReload: Starting Hot-Reload from IDE
+[2020.02.03-03.31.59:080][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.02.03-03.31.59:084][709]LogContentBrowser: Native class hierarchy updated for 'MagMan' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2020.02.03-03.31.59:087][709]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.03-03.31.59:123][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.03-03.31.59:137][709]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2736 classes and 663 folders.
+[2020.02.03-03.31.59:140][709]Display: HotReload took  0.2s.
+[2020.02.03-03.32.11:295][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.02.03-03.32.11:331][ 11]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Untitled_1_Auto1CC713CD84A12A631DED343A12F29E520.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.02.03-03.32.11:341][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.082
+[2020.02.03-03.32.11:341][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.082
+[2020.02.03-03.32.26:473][141]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2020.02.03-03.32.26:698][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.03-03.32.26:701][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-03.32.26:742][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.03-03.32.26:849][141]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapF102176941C3D3CDEF59FEAA99BC71CE.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.03-03.32.26:877][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.03-03.32.26:897][141]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData1BEE699B48962DDA40A78E8C49B93112.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.03-03.32.26:948][141]LogFileHelpers: Saving map 'GameMap' took 0.423
+[2020.02.03-03.33.58:159][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.33.58:319][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-03.33.58:360][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.03-03.33.58:475][ 88]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapE25A171C477722246AE8AC87E2327205.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.03-03.33.58:499][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.03-03.33.58:523][ 88]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataD3F922C5478F2461F3BC3DA55FAA7685.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.03-03.34.16:239][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.17:610][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-03.34.17:650][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.03-03.34.17:755][646]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapFEDBB2004B4C7D15FA675F9B40AAD68F.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.03-03.34.17:780][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.03-03.34.17:797][646]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData24E9A3DA4708E7D814A5549429F4CCDB.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.03-03.34.20:697][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.03-03.34.23:708][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-03.34.28:431][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.30:310][ 40]MapCheck: New page: 맵 체크
+[2020.02.03-03.34.30:315][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.30:320][ 40]LightingResults: New page: 라이팅 빌드 - 2020. 2. 3. 오후 9:34:30
+[2020.02.03-03.34.30:375][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.03-03.34.30:514][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.03-03.34.30:532][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.03-03.34.31:546][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.03-03.34.31:546][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6436
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.03-03.34.38:220][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.03-03.34.38:440][ 40]LogEditorBuildUtils: Build time 0:08
+[2020.02.03-03.34.38:491][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FloorMaterial, compiling. 
+[2020.02.03-03.34.38:498][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FloorMaterial, compiling. 
+[2020.02.03-03.34.38:560][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.03-03.34.38:568][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.03-03.34.39:447][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.03-03.34.41:727][212]Job is a success!
+[2020.02.03-03.34.41:750][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.02.03-03.34.41:826][213]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.03-03.34.41:843][213]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 128X128)
+[2020.02.03-03.34.41:874][213]Lightmass on DESKTOP-65TKGTQ: 1.87 sec total, 154 ms importing, 21 ms setup, 1.01 sec photons, 600 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 8.00 sec total, 98 ms processing.
+[2020.02.03-03.34.41:875][213]LogStaticLightingSystem: GameMap_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.02.03-03.34.41:876][213]LogMaterial: Warning: Material /Game/FloorMaterial.FloorMaterial needed to have new flag set bUsedWithStaticLighting !
+[2020.02.03-03.34.41:879][213]LogMaterial: Display: Missing cached shader map for material FloorMaterial, compiling. 
+[2020.02.03-03.34.41:953][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.03-03.34.42:049][213]LogStaticLightingSystem: Illumination: 11.6 sec (4 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2020.02.03-03.34.42:049][213]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.03-03.34.42:049][213]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.03-03.34.42:229][213]DumpUnbuiltLightIteractions
+[2020.02.03-03.34.42:229][213]Lights with unbuilt interactions: 0
+[2020.02.03-03.34.42:229][213]
+[2020.02.03-03.34.42:229][213]Primitives with unbuilt interactions: 0
+[2020.02.03-03.34.42:234][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.44:362][214]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.03-03.34.44:363][214]MapCheck: New page: GameMap - 2020. 2. 3. 오후 9:34:44
+[2020.02.03-03.34.44:363][214]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.982ms.
+[2020.02.03-03.34.49:770][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-03.34.49:907][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.03-03.34.52:562][861]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.02.03-03.34.52:615][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-03.34.52:662][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FloorMaterial" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset" SILENT=true
+[2020.02.03-03.34.52:673][861]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/FloorMaterial6D6BF53648104B0E76D190A2234CEFA2.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/FloorMaterial.uasset'
+[2020.02.03-03.34.52:679][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-03.34.52:719][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.03-03.34.52:825][861]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap4BAC3D174C1BF5E612A6279FA93F569C.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.03-03.34.52:847][861]LogFileHelpers: Saving map 'GameMap' took 0.168
+[2020.02.03-03.34.52:849][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.03-03.34.52:865][861]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataE4E79008454E60B4AA8A178D1F00F9FE.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.03-03.34.52:974][861]LogSlate: Window 'MagMan - 언리얼 에디터' being destroyed
+[2020.02.03-03.34.53:020][861]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.02.03-03.34.53:222][862]Cmd: QUIT_EDITOR
+[2020.02.03-03.34.53:454][862]LogExit: Preparing to exit.
+[2020.02.03-03.34.54:205][862]LogExit: Editor shut down
+[2020.02.03-03.34.54:206][862]LogExit: Transaction tracking system shut down
+[2020.02.03-03.34.54:398][862]LogExit: Object subsystem successfully closed.
+[2020.02.03-03.34.54:430][862]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.03-03.34.54:434][862]LogD3D11RHI: Shutdown
+[2020.02.03-03.34.54:434][862]LogD3D11RHI: CleanupD3DDevice
+[2020.02.03-03.34.54:434][862]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.03-03.34.54:434][862]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.03-03.34.54:434][862]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.03-03.34.54:434][862]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.03-03.34.54:435][862]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.03-03.34.54:435][862]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.03-03.34.54:530][862]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module MagMan (653)
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2020.02.03-03.34.54:577][862]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2020.02.03-03.34.54:578][862]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2020.02.03-03.34.54:579][862]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2020.02.03-03.34.55:246][862]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2020.02.03-03.34.55:246][862]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2020.02.03-03.34.55:247][862]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.02.03-03.34.55:291][862]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.03-03.34.55:293][862]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2020.02.03-03.34.55:297][862]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2020.02.03-03.34.55:448][862]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.02.03-03.34.55:449][862]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.03-03.34.55:450][862]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.03-03.34.55:551][862]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.03-03.34.55:652][862]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.03-03.34.55:652][862]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.03-03.34.55:653][862]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.03-03.34.55:653][862]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.03-03.34.55:653][862]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.03-03.34.55:653][862]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.03-03.34.55:654][862]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.03-03.34.55:655][862]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.03-03.34.55:657][862]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.03-03.34.55:704][862]LogDerivedDataCache: Shutdown
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.03-03.34.55:704][862]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.03-03.34.55:705][862]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.03-03.34.55:706][862]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.03-03.34.55:706][862]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.03-03.34.55:706][862]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.03-03.34.55:706][862]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.03-03.34.55:711][862]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.03-03.34.55:711][862]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.03-03.34.55:712][862]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.03-03.34.55:712][862]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.03-03.34.55:712][862]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.03-03.34.55:712][862]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.03-03.34.55:718][862]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.03-03.34.55:718][862]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.03-03.34.55:718][862]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B851C86B3-4529-7565-81F8-80A424547BA4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a65539b34a0371eeee31bb9ae7587134%7C75668806556642d6aca6c946319bdd48%7C58612403-3a6d-4195-a74b-d0e099829573&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.03-03.34.55:740][862]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.03-03.34.55:741][862]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.03-03.34.55:743][862]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.03-03.34.55:749][862]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.03-03.34.55:749][862]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.03-03.34.55:750][862]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.03-03.34.55:751][862]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.03-03.34.55:765][862]LogExit: Exiting.
+[2020.02.03-03.34.55:788][862]Log file closed, 02/03/20 12:34:55

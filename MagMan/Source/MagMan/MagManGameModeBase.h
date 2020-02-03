@@ -14,4 +14,6 @@ class MAGMAN_API AMagManGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	AMagManGameModeBase();
 };

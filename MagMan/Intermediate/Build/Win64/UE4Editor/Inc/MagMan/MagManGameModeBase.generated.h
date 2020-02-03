@@ -35,7 +35,7 @@ public: \
 
 #define MagMan_Source_MagMan_MagManGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AMagManGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AMagManGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMagManGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AMagManGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMagManGameModeBase); \
@@ -47,8 +47,6 @@ public:
 
 
 #define MagMan_Source_MagMan_MagManGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AMagManGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMagManGameModeBase(AMagManGameModeBase&&); \
@@ -56,7 +54,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AMagManGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMagManGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMagManGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMagManGameModeBase)
 
 
 #define MagMan_Source_MagMan_MagManGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
