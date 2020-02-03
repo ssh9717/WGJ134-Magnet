@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MagMan.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CA6DFCF2-C222-4EB5-95A5-F67CADAAA95F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MagMan.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MagManEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A6EF27A5-5F7D-4400-8D8B-9926D040DF60}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MagMan">
+      <UniqueIdentifier>{1970370A-C18C-48EF-A6DF-0A7510819481}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MagMan\MagMan.Build.cs">
+      <Filter>Source\MagMan</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MagMan\MagMan.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MagMan\MagMan.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MagMan\MagManGameModeBase.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MagMan\MagManGameModeBase.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

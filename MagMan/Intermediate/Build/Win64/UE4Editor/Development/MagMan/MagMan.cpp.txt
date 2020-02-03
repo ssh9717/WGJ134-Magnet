@@ -1,0 +1,2 @@
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\Definitions.MagMan.h
+c:\users\ssh97\documents\github\wgj134-magnet\magman\source\magman\MagMan.h

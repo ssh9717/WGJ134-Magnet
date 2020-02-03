@@ -1,0 +1,3 @@
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Source\MagMan\MagMan.Build.cs
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Source\MagMan.Target.cs
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Source\MagManEditor.Target.cs
