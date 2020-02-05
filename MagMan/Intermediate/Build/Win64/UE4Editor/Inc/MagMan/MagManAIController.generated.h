@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MAGMAN_MagManAIController_generated_h
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_RPC_WRAPPERS
-#define MagMan_Source_MagMan_MagManAIController_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define MagMan_Source_MagMan_MagManAIController_h_15_INCLASS_NO_PURE_DECLS \
+#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS
+#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define MagMan_Source_MagMan_MagManAIController_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMagManAIController(); \
 	friend struct Z_Construct_UClass_AMagManAIController_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(AMagManAIController)
 
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_INCLASS \
+#define MagMan_Source_MagMan_MagManAIController_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesAMagManAIController(); \
 	friend struct Z_Construct_UClass_AMagManAIController_Statics; \
@@ -33,9 +33,9 @@ public: \
 	DECLARE_SERIALIZER(AMagManAIController)
 
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_STANDARD_CONSTRUCTORS \
+#define MagMan_Source_MagMan_MagManAIController_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AMagManAIController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AMagManAIController(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMagManAIController) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AMagManAIController); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMagManAIController); \
@@ -46,9 +46,7 @@ private: \
 public:
 
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AMagManAIController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+#define MagMan_Source_MagMan_MagManAIController_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMagManAIController(AMagManAIController&&); \
@@ -56,29 +54,33 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AMagManAIController); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMagManAIController); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMagManAIController)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMagManAIController)
 
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_PRIVATE_PROPERTY_OFFSET
-#define MagMan_Source_MagMan_MagManAIController_h_12_PROLOG
-#define MagMan_Source_MagMan_MagManAIController_h_15_GENERATED_BODY_LEGACY \
+#define MagMan_Source_MagMan_MagManAIController_h_16_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__BTAsset() { return STRUCT_OFFSET(AMagManAIController, BTAsset); } \
+	FORCEINLINE static uint32 __PPO__BBAsset() { return STRUCT_OFFSET(AMagManAIController, BBAsset); }
+
+
+#define MagMan_Source_MagMan_MagManAIController_h_13_PROLOG
+#define MagMan_Source_MagMan_MagManAIController_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	MagMan_Source_MagMan_MagManAIController_h_15_PRIVATE_PROPERTY_OFFSET \
-	MagMan_Source_MagMan_MagManAIController_h_15_RPC_WRAPPERS \
-	MagMan_Source_MagMan_MagManAIController_h_15_INCLASS \
-	MagMan_Source_MagMan_MagManAIController_h_15_STANDARD_CONSTRUCTORS \
+	MagMan_Source_MagMan_MagManAIController_h_16_PRIVATE_PROPERTY_OFFSET \
+	MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS \
+	MagMan_Source_MagMan_MagManAIController_h_16_INCLASS \
+	MagMan_Source_MagMan_MagManAIController_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define MagMan_Source_MagMan_MagManAIController_h_15_GENERATED_BODY \
+#define MagMan_Source_MagMan_MagManAIController_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	MagMan_Source_MagMan_MagManAIController_h_15_PRIVATE_PROPERTY_OFFSET \
-	MagMan_Source_MagMan_MagManAIController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	MagMan_Source_MagMan_MagManAIController_h_15_INCLASS_NO_PURE_DECLS \
-	MagMan_Source_MagMan_MagManAIController_h_15_ENHANCED_CONSTRUCTORS \
+	MagMan_Source_MagMan_MagManAIController_h_16_PRIVATE_PROPERTY_OFFSET \
+	MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	MagMan_Source_MagMan_MagManAIController_h_16_INCLASS_NO_PURE_DECLS \
+	MagMan_Source_MagMan_MagManAIController_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

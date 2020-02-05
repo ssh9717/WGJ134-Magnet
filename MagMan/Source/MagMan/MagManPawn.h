@@ -47,4 +47,5 @@ public:
 
 	void GoUp(float AxisValue);
 	void GoRight(float AxisValue);
+	const FVector getVelocity() const;
 };

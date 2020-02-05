@@ -3,7 +3,9 @@
 
 #include "EnemyPawn.h"
 #include "ConstructorHelpers.h"
+#include "MagManAIController.h"
 #include "Components/InputComponent.h"
+
 
 // Sets default values
 AEnemyPawn::AEnemyPawn()
@@ -38,6 +40,9 @@ AEnemyPawn::AEnemyPawn()
 	PawnMovement->Deceleration = 32000.f;
 	PawnMovement->Acceleration = 8000.f;
 	PawnMovement->TurningBoost = 32.f;
+
+	AIControllerClass = AMagManAIController::StaticClass();
+	AutoPossessAI = EAutoPossessAI::PlacedInWorldOrSpawned;
 
 }
 

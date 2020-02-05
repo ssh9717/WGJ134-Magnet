@@ -1,0 +1,9 @@
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\Definitions.MagMan.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Source\MagMan/StoneActor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+c:\users\ssh97\documents\github\wgj134-magnet\magman\intermediate\build\win64\ue4editor\inc\magman\StoneActor.generated.h

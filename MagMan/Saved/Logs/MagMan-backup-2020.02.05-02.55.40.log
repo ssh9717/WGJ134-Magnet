@@ -1,0 +1,1093 @@
+﻿Log file open, 02/05/20 11:07:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagMan
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.942868
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.05-02.07.44:047][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.05-02.07.44:047][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.05-02.07.44:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:048][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.05-02.07.44:048][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.05-02.07.44:049][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:049][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-02.07.44:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-02.07.44:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-02.07.44:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-02.07.44:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-02.07.44:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-02.07.44:068][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-02.07.44:068][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.05-02.07.44:102][  0]LogHAL: Display: Platform has ~ 16 GB [17129635840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.05-02.07.44:102][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.05-02.07.44:102][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.05-02.07.44:103][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.02.05-02.07.44:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-02.07.44:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-02.07.44:105][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-02.07.44:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:106][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-02.07.44:107][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-02.07.44:108][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.05-02.07.44:109][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.05-02.07.44:109][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.05-02.07.44:109][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Config/Windows/Engine.ini]
+[2020.02.05-02.07.44:109][  0]LogInit: Computer: DESKTOP-65TKGTQ
+[2020.02.05-02.07.44:109][  0]LogInit: User: ssh97
+[2020.02.05-02.07.44:109][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.05-02.07.44:109][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.05-02.07.44:110][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.02.05-02.07.44:110][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.05-02.07.44:110][  0]LogMemory: Process Physical Memory: 101.94 MB used, 101.94 MB peak
+[2020.02.05-02.07.44:110][  0]LogMemory: Process Virtual Memory: 91.58 MB used, 91.58 MB peak
+[2020.02.05-02.07.44:110][  0]LogMemory: Physical Memory: 6534.28 MB used,  9801.82 MB free, 16336.09 MB total
+[2020.02.05-02.07.44:110][  0]LogMemory: Virtual Memory: 4677.09 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.02.05-02.07.44:540][  0]LogInit: Using OS detected language (ko-KR).
+[2020.02.05-02.07.44:540][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.02.05-02.07.44:542][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.02.05-02.07.44:785][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.05-02.07.45:015][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.05-02.07.45:015][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.05-02.07.47:862][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-02.07.47:862][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.05-02.07.48:031][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.05-02.07.48:031][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.05-02.07.48:044][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-02.07.48:044][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-02.07.48:044][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.05-02.07.48:060][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.05-02.07.48:060][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.05-02.07.48:060][  0]LogWindows: EnumDisplayDevices:
+[2020.02.05-02.07.48:060][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.02.05-02.07.48:062][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.05-02.07.48:064][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.05-02.07.48:065][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.05-02.07.48:066][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.05-02.07.48:066][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.05-02.07.48:067][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.05-02.07.48:067][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.05-02.07.48:067][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.02.05-02.07.48:151][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.05-02.07.48:278][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-02.07.48:279][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-02.07.48:279][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-02.07.48:291][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.05-02.07.48:339][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061085).
+[2020.02.05-02.07.48:823][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.05-02.07.48:852][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.05-02.07.48:883][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.05-02.07.48:911][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.05-02.07.48:945][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.05-02.07.48:974][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.05-02.07.49:002][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.05-02.07.49:031][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.05-02.07.49:052][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.05-02.07.49:181][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.05-02.07.49:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.05-02.07.49:192][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.05-02.07.49:289][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.05-02.07.49:289][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.05-02.07.49:329][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.05-02.07.49:329][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.05-02.07.49:353][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.05-02.07.49:376][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.05-02.07.49:402][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.05-02.07.49:435][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.05-02.07.49:504][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.05-02.07.49:504][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.05-02.07.49:504][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.05-02.07.49:589][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.05-02.07.49:885][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Intermediate/Shaders/WorkingDirectory/13040/).
+[2020.02.05-02.07.49:885][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ssh97/AppData/Local/Temp/UnrealShaderWorkingDir/055B37E94F36BFC6B2B6848A7155068C/'.
+[2020.02.05-02.07.49:890][  0]LogXGEController: Cleaning working directory: C:/Users/ssh97/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.05-02.07.49:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.05-02.07.49:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.05-02.07.49:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.05-02.07.52:340][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: Loaded boot cache 0.19s 73MB C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-02.07.52:534][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.05-02.07.52:559][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.05-02.07.52:560][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-02.07.52:560][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.05-02.07.52:574][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ssh97/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.05-02.07.52:574][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.05-02.07.52:574][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.05-02.07.52:598][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.05-02.07.52:603][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.05-02.07.52:616][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.05-02.07.52:904][  0]LogAssetRegistry: FAssetRegistry took 0.0412 seconds to start up
+[2020.02.05-02.07.53:398][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-02.07.53:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.05-02.07.53:795][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.05-02.07.53:795][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.05-02.07.53:795][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.05-02.07.53:795][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.05-02.07.53:846][  0]LogNetVersion: MagMan 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1687053041)
+[2020.02.05-02.07.55:117][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.068678 seconds
+[2020.02.05-02.07.55:126][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.05-02.07.55:127][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.05-02.07.55:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.05-02.07.58:817][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.05-02.07.58:841][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.05-02.07.59:681][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.05-02.07.59:681][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.05-02.07.59:709][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.05-02.07.59:722][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.05-02.08.00:256][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.05-02.08.00:906][  0]LogOcInput: OculusInput pre-init called
+[2020.02.05-02.08.01:976][  0]LogEngine: Initializing Engine...
+[2020.02.05-02.08.01:979][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-02.08.01:981][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.05-02.08.02:366][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.05-02.08.02:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.05-02.08.02:638][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.08.02:849][  0]LogInit: FAudioDevice initialized.
+[2020.02.05-02.08.02:849][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.05-02.08.02:938][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/ssh97/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-02.08.02:943][  0]LogInit: Texture streaming: Enabled
+[2020.02.05-02.08.03:042][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.05-02.08.03:042][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={C8C7A440-4504-3B13-88A8-3CAA6B4D2EC8}
+[2020.02.05-02.08.03:097][  0]LogInit: Transaction tracking system initialized
+[2020.02.05-02.08.03:240][  0]BlueprintLog: New page: 에디터 로드
+[2020.02.05-02.08.03:642][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.02.05-02.08.04:475][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/' took 0.02s
+[2020.02.05-02.08.04:475][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.05-02.08.04:475][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.05-02.08.05:254][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.05-02.08.05:254][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-02.08.05:256][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.05-02.08.05:263][  0]MapCheck: New page: 맵 체크
+[2020.02.05-02.08.05:263][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.05-02.08.05:303][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.05-02.08.05:504][  0]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.08.05:529][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-02.08.05:572][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.05-02.08.05:572][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-02.08.05:573][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.207ms.
+[2020.02.05-02.08.05:573][  0]LogFileHelpers: Loading map 'GameMap' took 0.319
+[2020.02.05-02.08.05:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.05:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.05:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.05:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.05:827][  0]LogCollectionManager: Loaded 0 collections in 0.003155 seconds
+[2020.02.05-02.08.05:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Collections/' took 0.01s
+[2020.02.05-02.08.05:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Developers/ssh97/Collections/' took 0.01s
+[2020.02.05-02.08.05:898][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Collections/' took 0.01s
+[2020.02.05-02.08.05:898][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.05-02.08.05:920][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2737 classes and 661 folders.
+[2020.02.05-02.08.05:937][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.05-02.08.05:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.05:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.05:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.05:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.05:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.05:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-02.08.06:313][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.05-02.08.06:344][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.02.05-02.08.06:491][  0]LogSlate: Took 0.006736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.05-02.08.06:508][  0]LogSlate: Took 0.016121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.05-02.08.06:526][  0]LogSlate: Took 0.015993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.02.05-02.08.06:532][  0]LogSlate: Took 0.005958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.05-02.08.06:541][  0]LogSlate: Took 0.006019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.05-02.08.06:732][  0]LogRenderer: Reallocating scene render targets to support 1212x652 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-02.08.06:810][  0]LogSlate: Took 0.005792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-02.08.06:995][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.05-02.08.06:995][  0]LogLoad: (Engine Initialization) Total time: 27.28 seconds
+[2020.02.05-02.08.06:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.05-02.08.07:039][  0]LogAssetRegistry: Asset discovery search completed in 14.1602 seconds
+[2020.02.05-02.08.07:041][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.05-02.08.07:041][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000141 seconds (updated 0 objects)
+[2020.02.05-02.08.07:044][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.02.05-02.08.07:105][  1]LogRenderer: Reallocating scene render targets to support 1212x668 Format 10 NumSamples 1 (Frame:3).
+[2020.02.05-02.08.10:202][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.08.10:325][365]LogSlate: Took 0.001063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-02.08.10:377][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.08.10:420][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.05-02.08.10:579][365]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap8EDA1600426AEDAB3A5FC3B1090AD5F2.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.08.10:623][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.08.10:666][365]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataA59CBEC042233B287E1027B3DA9BBFB8.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.08.14:897][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.05-02.08.24:512][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.08.24:681][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.08.24:722][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.05-02.08.24:860][969]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapACB612BA4C3C268B71DBC6901B78AB55.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.08.24:902][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.08.24:936][969]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData9D78B662419AF3AA9FB37DB443192A43.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.08.25:464][ 19]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.08.25:483][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.08.25:484][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.08.25:484][ 19]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:08:25)
+[2020.02.05-02.08.25:500][ 19]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.08.25:504][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003407s)
+[2020.02.05-02.08.25:504][ 19]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.08.25:504][ 19]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2020.02.05-02.08.25:504][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.004815s)
+[2020.02.05-02.08.25:543][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.05-02.08.25:733][ 19]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.08.25:775][ 19]LogInit: FAudioDevice initialized.
+[2020.02.05-02.08.25:826][ 19]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.08.25:828][ 19]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.08.25
+[2020.02.05-02.08.25:829][ 19]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.08.25:830][ 19]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.08.25:830][ 19]LogWorld: Bringing up level for play took: 0.002676
+[2020.02.05-02.08.25:858][ 19]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.05-02.08.25:860][ 19]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: 0.375
+[2020.02.05-02.08.25:860][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.08.31:182][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.08.31:183][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.31:218][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.08.31:219][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.08.31:266][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.08.31:269][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.05-02.08.31:285][657]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.05-02.08.32:457][797]LogEditorViewport: Clicking on Actor (LMB): EnemyPawn (EnemyPawn2)
+[2020.02.05-02.08.40:117][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.08.40:246][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.08.40:285][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.02.05-02.08.40:423][673]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap9FEFCEA54FE92783A1947F8B65B6D388.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.08.40:465][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.08.40:499][673]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData3E5247264709EBF46EA53A89F02F5C96.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.08.41:030][725]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.08.41:049][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.08.41:049][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.08.41:049][725]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:08:41)
+[2020.02.05-02.08.41:050][725]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.08.41:053][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002971s)
+[2020.02.05-02.08.41:053][725]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.08.41:053][725]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2020.02.05-02.08.41:054][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.003939s)
+[2020.02.05-02.08.41:092][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.02.05-02.08.41:276][725]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.08.41:318][725]LogInit: FAudioDevice initialized.
+[2020.02.05-02.08.41:350][725]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.08.41:352][725]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.08.41
+[2020.02.05-02.08.41:352][725]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.08.41:352][725]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.08.41:352][725]LogWorld: Bringing up level for play took: 0.001391
+[2020.02.05-02.08.41:367][725]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: -0.119
+[2020.02.05-02.08.41:367][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.09.04:333][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.09.04:333][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.09.04:372][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.09.04:372][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.09.04:414][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.09.04:417][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.05-02.09.04:435][479]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.05-02.09.05:389][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.09.05:550][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.09.05:590][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.05-02.09.05:726][606]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap1E59476340BD1479CC0C86B4D2239182.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.09.05:770][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.09.05:808][606]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataE67EA9CB49B3A18C69CA048D2985BA57.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.09.10:933][195]LogEditorViewport: Clicking on Actor (LMB): EnemyPawn (EnemyPawn2)
+[2020.02.05-02.09.12:737][404]LogSlate: Took 0.006126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.05-02.09.17:338][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.09.17:614][959]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Character/IronBall/AI/EnemyBehaviorTree.EnemyBehaviorTree
+[2020.02.05-02.09.17:758][959]LogSlate: Took 0.005850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.05-02.10.16:379][832]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/IronBall/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.02.05-02.10.16:796][832]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.05-02.10.17:647][832]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Character/IronBall/AI/BTTask_BlueprintBase_New.
+[2020.02.05-02.10.21:189][168]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/BTTask_BlueprintBase_New37559A3D434193AE7DD4CD90135E113B.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Character/IronBall/AI/BTTask_BlueprintBase_New.uasset'
+[2020.02.05-02.10.21:369][178]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Character/IronBall/AI/BTTask_BlueprintBase_New.
+[2020.02.05-02.10.23:038][329]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/EnemyBehaviorTreeA31C8A674B13C26431D8ED867DC27A3C.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Character/IronBall/AI/EnemyBehaviorTree.uasset'
+[2020.02.05-02.10.29:924][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.05-02.10.30:987][ 75]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.05-02.10.31:326][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.02.05-02.10.31:411][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.05-02.10.31:442][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.05-02.10.33:013][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.05-02.15.08:606][457]Cmd: TRANSACTION UNDO
+[2020.02.05-02.15.08:607][457]LogEditorTransaction: Undo 노드 추가
+[2020.02.05-02.19.55:797][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.05-02.19.55:798][958]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameMap' took 0.034
+[2020.02.05-02.19.55:800][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/IronBall/AI/EnemyBehaviorTree] ([1] browsable assets)...
+[2020.02.05-02.19.55:800][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/IronBall/AI/EnemyBehaviorTree]
+[2020.02.05-02.19.55:836][958]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/EnemyBehaviorTree_Auto17AA2FD464CAF252AE1EF0388CB96B72D.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/Autosaves/Game/Character/IronBall/AI/EnemyBehaviorTree_Auto1.uasset'
+[2020.02.05-02.19.55:838][958]LogFileHelpers: Auto-saving content packages took 0.040
+[2020.02.05-02.24.30:625][142]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/EnemyBehaviorTreeF6D654714386F7EF05286F8CD146766A.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/Character/IronBall/AI/EnemyBehaviorTree.uasset'
+[2020.02.05-02.24.40:132][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.24.40:175][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.05-02.24.40:382][226]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap8093A5C44587FFB017DC0B990602AFB8.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.24.40:427][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.24.40:474][226]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataEBDA28614B79A2B54069AE88EF31B74A.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.24.42:431][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.05-02.25.18:223][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.25.18:263][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.05-02.25.18:457][708]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap6106407041467C926C8C11AF10AB333B.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.25.18:499][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.25.18:533][708]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData61C6F10C46B0F2A0610F0EB02E91B7D2.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.25.21:830][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.25.21:922][ 71]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.25.21:953][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.25.21:956][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.25.21:956][ 71]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:25:21)
+[2020.02.05-02.25.21:956][ 71]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.25.21:960][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003863s)
+[2020.02.05-02.25.21:960][ 71]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.25.21:961][ 71]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2020.02.05-02.25.21:961][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.005095s)
+[2020.02.05-02.25.22:002][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.05-02.25.22:192][ 71]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.25.22:236][ 71]LogInit: FAudioDevice initialized.
+[2020.02.05-02.25.22:266][ 71]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.25.22:268][ 71]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.25.22
+[2020.02.05-02.25.22:268][ 71]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.25.22:268][ 71]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.25.22:269][ 71]LogWorld: Bringing up level for play took: 0.001574
+[2020.02.05-02.25.22:284][ 71]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: 0.799
+[2020.02.05-02.25.22:284][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.25.52:266][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.25.52:270][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.25.52:303][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.25.52:303][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.25.52:348][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.25.52:351][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.05-02.25.52:372][669]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.05-02.26.09:918][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.05-02.26.10:706][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.05-02.26.11:058][875]LogEditorViewport: Clicking on Actor (LMB): EnemyPawn (EnemyPawn2)
+[2020.02.05-02.26.11:369][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.05-02.26.12:143][993]LogEditorViewport: Clicking on Actor (LMB): EnemyPawn (EnemyPawn2)
+[2020.02.05-02.26.15:853][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.26.16:287][467]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.26.16:306][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.16:309][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.26.16:309][467]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:26:16)
+[2020.02.05-02.26.16:309][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.26.16:312][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002956s)
+[2020.02.05-02.26.16:313][467]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.26.16:313][467]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2020.02.05-02.26.16:313][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.003858s)
+[2020.02.05-02.26.16:348][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.05-02.26.16:536][467]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.26.16:577][467]LogInit: FAudioDevice initialized.
+[2020.02.05-02.26.16:609][467]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.26.16:611][467]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.26.16
+[2020.02.05-02.26.16:611][467]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.26.16:611][467]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.26.16:611][467]LogWorld: Bringing up level for play took: 0.001397
+[2020.02.05-02.26.16:626][467]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: 1.14
+[2020.02.05-02.26.16:626][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.20:688][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.20:692][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.26.20:729][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.26.20:729][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.20:773][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.26.20:777][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.05-02.26.20:796][951]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.05-02.26.21:658][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2020.02.05-02.26.22:653][168]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.02.05-02.26.22:661][168]LogSlate: Took 0.007594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.05-02.26.30:905][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.05-02.26.31:999][280]LogEditorViewport: Clicking on Actor (LMB): EnemyPawn (EnemyPawn2)
+[2020.02.05-02.26.37:647][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.26.37:766][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.26.37:807][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.05-02.26.38:002][942]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapCC14CF7C41C84A876B7F2F929198F2CD.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.26.38:045][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.26.38:079][942]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataF42C557A4497C4E0F4E361B91AADB8F4.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.26.41:291][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.26.41:418][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.26.41:457][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.05-02.26.41:651][308]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap666CCDA249CBCAC722D278808E7D7DFD.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.26.41:692][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.26.41:727][308]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataD477F8C949D611FB1EA6BA92B7F3BB48.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.26.42:192][355]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.26.42:211][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.42:214][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.26.42:214][355]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:26:42)
+[2020.02.05-02.26.42:214][355]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.26.42:217][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002960s)
+[2020.02.05-02.26.42:218][355]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.26.42:218][355]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2020.02.05-02.26.42:218][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.003842s)
+[2020.02.05-02.26.42:257][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.05-02.26.42:449][355]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.26.42:493][355]LogInit: FAudioDevice initialized.
+[2020.02.05-02.26.42:528][355]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.26.42:529][355]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.26.42
+[2020.02.05-02.26.42:530][355]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.26.42:530][355]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.26.42:530][355]LogWorld: Bringing up level for play took: 0.001396
+[2020.02.05-02.26.42:545][355]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: 1.059
+[2020.02.05-02.26.42:545][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.52:911][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.52:914][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.26.52:944][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.26.52:945][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.26.52:991][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.26.52:994][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.05-02.26.53:014][597]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.05-02.26.56:037][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-02.26.56:894][ 40]MapCheck: New page: 맵 체크
+[2020.02.05-02.26.56:902][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-02.26.56:907][ 40]LightingResults: New page: 라이팅 빌드 - 2020. 2. 5. 오후 8:26:56
+[2020.02.05-02.26.57:018][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.05-02.26.57:217][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.05-02.26.57:240][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.05-02.26.58:252][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.05-02.26.58:252][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13040
+[2020.02.05-02.27.00:704][ 40]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.05-02.27.00:705][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.05-02.27.00:705][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.05-02.27.00:705][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.05-02.27.00:705][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.05-02.27.00:705][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.05-02.27.00:948][ 40]LogEditorBuildUtils: Build time 0:04
+[2020.02.05-02.27.01:116][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.05-02.27.03:463][207]Job is a success!
+[2020.02.05-02.27.03:483][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-02.27.03:567][208]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2020.02.05-02.27.03:567][208]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.05-02.27.03:568][208]LogVolumetricLightmapImport:      BrickData 105x5x5 = 0.1Mb
+[2020.02.05-02.27.03:568][208]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.05-02.27.03:568][208]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2020.02.05-02.27.03:568][208]LogVolumetricLightmapImport:          1: 19.0% covering 6.3% of volume
+[2020.02.05-02.27.03:568][208]LogVolumetricLightmapImport:          2: 76.2% covering 0.4% of volume
+[2020.02.05-02.27.03:602][208]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.05-02.27.03:603][208]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.02.05-02.27.03:603][208]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.02.05-02.27.03:603][208]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.05-02.27.03:603][208]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.02.05-02.27.03:603][208]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.02.05-02.27.03:632][208]Lightmass on DESKTOP-65TKGTQ: 1.96 sec total, 174 ms importing, 20 ms setup, 1.01 sec photons, 664 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 8.97 sec total, 186 ms processing.
+[2020.02.05-02.27.03:633][208]LogStaticLightingSystem: GameMap_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.02.05-02.27.03:677][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.05-02.27.03:770][208]LogStaticLightingSystem: Illumination: 6.80 sec (14 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2020.02.05-02.27.03:771][208]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.05-02.27.03:771][208]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.05-02.27.04:721][208]DumpUnbuiltLightIteractions
+[2020.02.05-02.27.04:721][208]Lights with unbuilt interactions: 0
+[2020.02.05-02.27.04:721][208]
+[2020.02.05-02.27.04:721][208]Primitives with unbuilt interactions: 0
+[2020.02.05-02.27.04:726][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-02.27.04:900][209]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.05-02.27.04:901][209]MapCheck: New page: GameMap - 2020. 2. 5. 오후 8:27:04
+[2020.02.05-02.27.04:902][209]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.104ms.
+[2020.02.05-02.28.21:301][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.28.21:429][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.28.21:467][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.05-02.28.21:660][788]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap4A1C3CB34930BFE7B91A24AEF5AC8806.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.28.21:709][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.28.21:745][788]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData59F0DAA64509FECC860375B0AD47AD0B.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.28.22:190][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.28.22:289][845]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.05-02.28.22:308][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.28.22:311][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-02.28.22:311][845]PIE: New page: PIE 세션: GameMap (2020. 2. 5. 오후 8:28:22)
+[2020.02.05-02.28.22:311][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameMap
+[2020.02.05-02.28.22:314][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2020.02.05-02.28.22:315][845]LogAIModule: Creating AISystem for world GameMap
+[2020.02.05-02.28.22:315][845]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2020.02.05-02.28.22:315][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMap.GameMap to /Game/UEDPIE_0_GameMap.GameMap (0.004063s)
+[2020.02.05-02.28.22:351][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.02.05-02.28.22:541][845]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.05-02.28.22:584][845]LogInit: FAudioDevice initialized.
+[2020.02.05-02.28.22:615][845]LogLoad: Game class is 'MagManGameModeBase'
+[2020.02.05-02.28.22:617][845]LogWorld: Bringing World /Game/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2020.02.05-11.28.22
+[2020.02.05-02.28.22:617][845]LogTemp: Warning: EnemyPawn_2
+[2020.02.05-02.28.22:617][845]LogTemp: Warning: Use Blackboard
+[2020.02.05-02.28.22:617][845]LogWorld: Bringing up level for play took: 0.001474
+[2020.02.05-02.28.22:632][845]PIE: /Game/UEDPIE_0_GameMap 에 대한 에디터에서 플레이 시작 시간: 1.147
+[2020.02.05-02.28.22:632][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.28.37:866][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.28.37:869][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.28.37:905][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-02.28.37:905][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/GameMap.GameMap_C' with ClassGeneratedBy '/Game/GameMap.GameMap:PersistentLevel.GameMap'
+[2020.02.05-02.28.37:948][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-02.28.37:951][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.05-02.28.37:973][670]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.05-02.28.39:070][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.28.39:197][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.28.39:234][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.05-02.28.39:430][810]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap1EC6C88B439171214FBDFB8B3D646FDA.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.28.39:473][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.28.39:508][810]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData6C35B6234B5476EE9517A89CC8B84BD9.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.28.46:911][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-02.28.47:048][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.02.05-02.28.48:169][835]LogSlate: Took 0.007339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.05-02.28.48:218][835]LogSlate: Took 0.015773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2020.02.05-02.31.28:701][896]Candidate modules for hot reload:
+[2020.02.05-02.31.28:701][896]  MagMan
+[2020.02.05-02.31.28:701][896]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,4851 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.05-02.31.56:517][896]CompilerResultsLog: New page: 컴파일 - 2020. 2. 5. 오후 8:31:56
+[2020.02.05-02.31.56:518][896]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.05-02.31.56:518][896]CompilerResultsLog: Creating makefile for MagManEditor (ini files are newer than makefile)
+[2020.02.05-02.31.56:518][896]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.05-02.31.56:518][896]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.05-02.31.56:519][896]CompilerResultsLog: Reflection code generated for MagManEditor in 19.5291443 seconds
+[2020.02.05-02.31.56:519][896]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.31.56:519][896]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.31.56:535][896]LogSlate: Took 0.015655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.05-02.31.56:536][896]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '׼ (U+05fc)'
+[2020.02.05-02.31.56:557][896]LogSlate: Took 0.018432 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.02.05-02.31.56:559][896]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.31.56:559][896]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.31.56:559][896]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.31.56:560][896]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.31.56:560][896]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.31.56:560][896]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.31.56:560][896]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.02.05-02.31.56:560][896]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.05-02.31.56:561][896]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.02.05-02.31.56:561][896]CompilerResultsLog:   [1/6] MagMan.init.gen.cpp
+[2020.02.05-02.31.56:561][896]CompilerResultsLog:   [2/6] BTTask_Turn.cpp
+[2020.02.05-02.31.56:561][896]CompilerResultsLog:   [3/6] BTTask_Turn.gen.cpp
+[2020.02.05-02.31.56:561][896]CompilerResultsLog:   [4/6] UE4Editor-MagMan-4851.lib
+[2020.02.05-02.31.56:562][896]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-4851.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-4851.exp
+[2020.02.05-02.31.56:562][896]CompilerResultsLog:   [5/6] UE4Editor-MagMan-4851.dll
+[2020.02.05-02.31.56:562][896]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-4851.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-4851.suppressed.exp
+[2020.02.05-02.31.56:563][896]CompilerResultsLog: Error:   BTTask_Turn.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl IGameplayTaskOwnerInterface::OnGameplayTaskActivated(class UGameplayTask &)" (?OnGameplayTaskActivated@IGameplayTaskOwnerInterface@@UEAAXAEAVUGameplayTask@@@Z)
+[2020.02.05-02.31.56:563][896]CompilerResultsLog: Error:   BTTask_Turn.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl IGameplayTaskOwnerInterface::OnGameplayTaskActivated(class UGameplayTask &)" (?OnGameplayTaskActivated@IGameplayTaskOwnerInterface@@UEAAXAEAVUGameplayTask@@@Z)
+[2020.02.05-02.31.56:563][896]CompilerResultsLog: Error:   C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan-4851.dll : fatal error LNK1120: 1 unresolved externals
+[2020.02.05-02.31.56:564][896]LogMainFrame: MainFrame: Module compiling took 27.865 seconds
+[2020.02.05-02.31.56:564][896]Warning: HotReload failed, recompile failed
+[2020.02.05-02.31.56:610][896]Warning: RebindPackages failed because compilation failed.
+[2020.02.05-02.32.02:515][896]LogSlate: Window '메시지' being destroyed
+[2020.02.05-02.32.02:563][896]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.02.05-02.32.02:610][896]LogHotReload: New module detected: UE4Editor-MagMan-4851.dll
+[2020.02.05-02.32.36:822][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.32.36:867][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.05-02.32.37:067][820]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap8D2F6C4743BE190081B50DA4DA168636.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.32.37:114][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.32.37:156][820]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltData6BD4F723439DA55BAA9F189C4A09938F.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.32.37:702][869]Candidate modules for hot reload:
+[2020.02.05-02.32.37:702][869]  MagMan
+[2020.02.05-02.32.37:702][869]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,1865 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.05-02.32.37:709][869]Warning: Starting HotReload took  0.0s.
+[2020.02.05-02.32.51:033][430]CompilerResultsLog: New page: 컴파일 - 2020. 2. 5. 오후 8:32:51
+[2020.02.05-02.32.51:034][430]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.05-02.32.51:034][430]CompilerResultsLog: Creating makefile for MagManEditor (ini files are newer than makefile)
+[2020.02.05-02.32.51:034][430]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.05-02.32.51:034][430]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.05-02.32.51:035][430]CompilerResultsLog: Reflection code generated for MagManEditor in 6.952041 seconds
+[2020.02.05-02.32.51:035][430]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.32.51:035][430]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.32.51:036][430]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.32.51:036][430]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.32.51:036][430]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.32.51:037][430]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.32.51:037][430]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.32.51:037][430]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.32.51:037][430]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.02.05-02.32.51:038][430]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.05-02.32.51:038][430]CompilerResultsLog: Building 3 actions with 16 processes...
+[2020.02.05-02.32.51:038][430]CompilerResultsLog:   [1/3] UE4Editor-MagMan-1865.lib
+[2020.02.05-02.32.51:038][430]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-1865.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-1865.exp
+[2020.02.05-02.32.51:039][430]CompilerResultsLog:   [2/3] UE4Editor-MagMan-1865.dll
+[2020.02.05-02.32.51:039][430]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-1865.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-1865.suppressed.exp
+[2020.02.05-02.32.51:039][430]CompilerResultsLog:   [3/3] MagManEditor.target
+[2020.02.05-02.32.51:040][430]CompilerResultsLog: Total time in Parallel executor: 1.91 seconds
+[2020.02.05-02.32.51:040][430]CompilerResultsLog: Total execution time: 13.20 seconds
+[2020.02.05-02.32.51:040][430]LogMainFrame: MainFrame: Module compiling took 13.340 seconds
+[2020.02.05-02.32.51:079][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.02.05-02.32.51:079][430]LogBlueprintActionDatabase: Requesting refresh due to module change: MagMan (unloaded)
+[2020.02.05-02.32.51:425][430]LogClass: Could not find existing class BTTask_Turn in package /Script/MagMan for HotReload, assuming new class
+[2020.02.05-02.32.51:445][430]LogBlueprintActionDatabase: Requesting refresh due to module change: MagMan (loaded)
+[2020.02.05-02.32.51:445][430]LogContentBrowser: Native class hierarchy updated for 'MagMan' in 0.0005 seconds. Added 6 classes and 2 folders.
+[2020.02.05-02.32.51:450][430]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.05-02.32.51:698][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.02.05-02.32.51:698][430]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.02.05-02.32.51:717][430]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2739 classes and 663 folders.
+[2020.02.05-02.32.51:717][430]Display: HotReload took 14.0s.
+[2020.02.05-02.32.54:104][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.32.54:185][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.05-02.32.54:388][673]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMapB14922454251436F1F1A8490C13FEFA0.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.32.54:434][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.32.54:470][673]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataF56117DA4B958777D4A3E986D3AE719C.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.52.21:241][429]Candidate modules for hot reload:
+[2020.02.05-02.52.21:241][429]  MagMan
+[2020.02.05-02.52.21:241][429]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,7834 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.05-02.52.21:247][429]Warning: Starting HotReload took  0.0s.
+[2020.02.05-02.52.36:610][684]CompilerResultsLog: New page: 컴파일 - 2020. 2. 5. 오후 8:52:36
+[2020.02.05-02.52.36:610][684]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.05-02.52.36:610][684]CompilerResultsLog: Creating makefile for MagManEditor (ini files are newer than makefile)
+[2020.02.05-02.52.36:611][684]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.05-02.52.36:611][684]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.05-02.52.36:611][684]CompilerResultsLog: Reflection code generated for MagManEditor in 7.3348019 seconds
+[2020.02.05-02.52.36:611][684]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.52.36:612][684]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.52.36:612][684]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.52.36:612][684]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.52.36:612][684]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.52.36:613][684]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.52.36:613][684]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.52.36:613][684]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.52.36:613][684]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.02.05-02.52.36:613][684]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.05-02.52.36:614][684]CompilerResultsLog: Building 5 actions with 16 processes...
+[2020.02.05-02.52.36:614][684]CompilerResultsLog:   [1/5] BTTask_Turn.gen.cpp
+[2020.02.05-02.52.36:614][684]CompilerResultsLog:   [2/5] BTTask_Turn.cpp
+[2020.02.05-02.52.36:614][684]CompilerResultsLog:   [3/5] UE4Editor-MagMan-7834.lib
+[2020.02.05-02.52.36:614][684]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7834.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7834.exp
+[2020.02.05-02.52.36:615][684]CompilerResultsLog:   [4/5] UE4Editor-MagMan-7834.dll
+[2020.02.05-02.52.36:615][684]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7834.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-7834.suppressed.exp
+[2020.02.05-02.52.36:615][684]CompilerResultsLog: Error:   BTTask_Turn.cpp.obj : error LNK2019: unresolved external symbol "public: __cdecl UBTTask_Turn::UBTTask_Turn(void)" (??0UBTTask_Turn@@QEAA@XZ) referenced in function "public: static void __cdecl UBTTask_Turn::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@UBTTask_Turn@@SAXAEBVFObjectInitializer@@@Z)
+[2020.02.05-02.52.36:616][684]CompilerResultsLog: Error:   BTTask_Turn.gen.cpp.obj : error LNK2001: unresolved external symbol "public: __cdecl UBTTask_Turn::UBTTask_Turn(void)" (??0UBTTask_Turn@@QEAA@XZ)
+[2020.02.05-02.52.36:616][684]CompilerResultsLog: Error:   C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan-7834.dll : fatal error LNK1120: 1 unresolved externals
+[2020.02.05-02.52.36:616][684]LogMainFrame: MainFrame: Module compiling took 15.379 seconds
+[2020.02.05-02.52.36:616][684]Warning: HotReload failed, recompile failed
+[2020.02.05-02.53.55:985][675]LogSlate: Window '메시지 로그' being destroyed
+[2020.02.05-02.53.56:030][675]LogSlate: Window '메시지 로그' being destroyed
+[2020.02.05-02.53.57:478][724]Candidate modules for hot reload:
+[2020.02.05-02.53.57:478][724]  MagMan
+[2020.02.05-02.53.57:479][724]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,571 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.05-02.53.57:484][724]Warning: Starting HotReload took  0.0s.
+[2020.02.05-02.54.11:406][181]CompilerResultsLog: New page: 컴파일 - 2020. 2. 5. 오후 8:54:11
+[2020.02.05-02.54.11:407][181]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.05-02.54.11:407][181]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.05-02.54.11:407][181]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.05-02.54.11:408][181]CompilerResultsLog: Reflection code generated for MagManEditor in 6.8426502 seconds
+[2020.02.05-02.54.11:408][181]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.54.11:408][181]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.54.11:409][181]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.54.11:409][181]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.54.11:409][181]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.54.11:409][181]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.54.11:410][181]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.54.11:410][181]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.54.11:410][181]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.02.05-02.54.11:410][181]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.05-02.54.11:411][181]CompilerResultsLog: Building 4 actions with 16 processes...
+[2020.02.05-02.54.11:411][181]CompilerResultsLog:   [1/4] BTTask_Turn.cpp
+[2020.02.05-02.54.11:411][181]CompilerResultsLog:   [2/4] UE4Editor-MagMan-0571.lib
+[2020.02.05-02.54.11:411][181]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0571.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0571.exp
+[2020.02.05-02.54.11:411][181]CompilerResultsLog:   [3/4] UE4Editor-MagMan-0571.dll
+[2020.02.05-02.54.11:412][181]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0571.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0571.suppressed.exp
+[2020.02.05-02.54.11:412][181]CompilerResultsLog:   [4/4] MagManEditor.target
+[2020.02.05-02.54.11:412][181]CompilerResultsLog: Total time in Parallel executor: 3.78 seconds
+[2020.02.05-02.54.11:413][181]CompilerResultsLog: Total execution time: 13.80 seconds
+[2020.02.05-02.54.11:413][181]LogMainFrame: MainFrame: Module compiling took 13.938 seconds
+[2020.02.05-02.54.11:481][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.05-02.54.11:481][181]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.02.05-02.54.11:500][181]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2739 classes and 663 folders.
+[2020.02.05-02.54.11:500][181]Display: HotReload took 14.0s.
+[2020.02.05-02.54.12:862][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.05-02.54.12:938][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.05-02.54.13:134][288]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap75D55475453520591640AAB2B06F5FD6.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap.umap'
+[2020.02.05-02.54.13:176][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMap_BuiltData" FILE="../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset" SILENT=true
+[2020.02.05-02.54.13:219][288]LogSavePackage: Moving '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Saved/GameMap_BuiltDataC0B0ADD04E928C951BB4D3B2319926AE.tmp' to '../../../../../../Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Content/GameMap_BuiltData.uasset'
+[2020.02.05-02.55.23:708][387]Candidate modules for hot reload:
+[2020.02.05-02.55.23:709][387]  MagMan
+[2020.02.05-02.55.23:709][387]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MagMan,71 Win64 Development -TargetType=Editor -Project="C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject" "C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/MagMan.uproject"  -IgnoreJunk]
+[2020.02.05-02.55.38:444][387]CompilerResultsLog: New page: 컴파일 - 2020. 2. 5. 오후 8:55:38
+[2020.02.05-02.55.38:444][387]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet).
+[2020.02.05-02.55.38:445][387]CompilerResultsLog: Creating makefile for MagManEditor (ini files are newer than makefile)
+[2020.02.05-02.55.38:445][387]CompilerResultsLog: Parsing headers for MagManEditor
+[2020.02.05-02.55.38:445][387]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\MagMan.uproject" "C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\MagManEditor\Development\MagManEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.02.05-02.55.38:446][387]CompilerResultsLog: Reflection code generated for MagManEditor in 7.1003571 seconds
+[2020.02.05-02.55.38:446][387]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.55.38:446][387]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.55.38:446][387]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.55.38:447][387]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.55.38:447][387]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.55.38:447][387]CompilerResultsLog: Attempting to retry...
+[2020.02.05-02.55.38:448][387]CompilerResultsLog: Failed to delete file 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb'
+[2020.02.05-02.55.38:448][387]CompilerResultsLog:     Exception: 'C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Binaries\Win64\UE4Editor-MagMan.pdb' ???ο? ???? ?׼????? ?źεǾ????ϴ?.
+[2020.02.05-02.55.38:449][387]CompilerResultsLog: ERROR: Exhausted all retries!
+[2020.02.05-02.55.38:449][387]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.02.05-02.55.38:449][387]CompilerResultsLog: Building 6 actions with 16 processes...
+[2020.02.05-02.55.38:449][387]CompilerResultsLog:   [1/6] MagMan.init.gen.cpp
+[2020.02.05-02.55.38:449][387]CompilerResultsLog:   [2/6] BTService_FindStone.cpp
+[2020.02.05-02.55.38:450][387]CompilerResultsLog:   [3/6] BTService_FindStone.gen.cpp
+[2020.02.05-02.55.38:450][387]CompilerResultsLog:   [4/6] UE4Editor-MagMan-0071.lib
+[2020.02.05-02.55.38:450][387]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0071.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0071.exp
+[2020.02.05-02.55.38:451][387]CompilerResultsLog:   [5/6] UE4Editor-MagMan-0071.dll
+[2020.02.05-02.55.38:451][387]CompilerResultsLog:      Creating library C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0071.suppressed.lib and object C:\Users\ssh97\Documents\GitHub\WGJ134-Magnet\MagMan\Intermediate\Build\Win64\UE4Editor\Development\MagMan\UE4Editor-MagMan-0071.suppressed.exp
+[2020.02.05-02.55.38:451][387]CompilerResultsLog:   [6/6] MagManEditor.target
+[2020.02.05-02.55.38:451][387]CompilerResultsLog: Total time in Parallel executor: 3.26 seconds
+[2020.02.05-02.55.38:452][387]CompilerResultsLog: Total execution time: 14.62 seconds
+[2020.02.05-02.55.38:452][387]LogMainFrame: MainFrame: Module compiling took 14.748 seconds
+[2020.02.05-02.55.38:513][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.02.05-02.55.38:514][387]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.02.05-02.55.38:533][387]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2739 classes and 663 folders.
+[2020.02.05-02.55.38:533][387]Display: HotReload took 14.8s.
+[2020.02.05-02.55.38:534][387]Warning: HotReload operation took 14.8s.
+[2020.02.05-02.55.38:876][387]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ssh97/Documents/GitHub/WGJ134-Magnet/MagMan/Source/MagMan/BTService_FindStone.cpp'
+[2020.02.05-02.55.38:883][387]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2020.02.05-02.55.39:223][387]LogHotReload: New module detected: UE4Editor-MagMan-0071.dll
+[2020.02.05-02.55.39:311][388]LogHotReload: Starting Hot-Reload from IDE
+[2020.02.05-02.55.39:465][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.05-02.55.39:465][388]LogBlueprintActionDatabase: Requesting refresh due to module change: MagMan (unloaded)
+[2020.02.05-02.55.39:866][388]LogClass: Could not find existing class BTService_FindStone in package /Script/MagMan for HotReload, assuming new class
+[2020.02.05-02.55.39:884][388]LogHotReload: Re-instancing BTTask_Turn after hot-reload.
+[2020.02.05-02.55.40:046][388]LogBlueprintActionDatabase: Requesting refresh due to module change: MagMan (loaded)
+[2020.02.05-02.55.40:048][388]LogContentBrowser: Native class hierarchy updated for 'MagMan' in 0.0013 seconds. Added 7 classes and 2 folders.
+[2020.02.05-02.55.40:054][388]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.02.05-02.55.40:151][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.02.05-02.55.40:151][388]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.02.05-02.55.40:172][388]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2740 classes and 663 folders.
+[2020.02.05-02.55.40:177][388]Display: HotReload took  0.9s.

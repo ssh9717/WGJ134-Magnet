@@ -17,6 +17,8 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 	MAGMAN_API UClass* Z_Construct_UClass_AMagManAIController();
 	AIMODULE_API UClass* Z_Construct_UClass_AAIController();
 	UPackage* Z_Construct_UPackage__Script_MagMan();
+	AIMODULE_API UClass* Z_Construct_UClass_UBlackboardData_NoRegister();
+	AIMODULE_API UClass* Z_Construct_UClass_UBehaviorTree_NoRegister();
 // End Cross Module References
 	void AMagManAIController::StaticRegisterNativesAMagManAIController()
 	{
@@ -31,6 +33,15 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BBAsset_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BBAsset;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BTAsset_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BTAsset;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -45,6 +56,22 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 		{ "ModuleRelativePath", "MagManAIController.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMagManAIController_Statics::NewProp_BBAsset_MetaData[] = {
+		{ "ModuleRelativePath", "MagManAIController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMagManAIController_Statics::NewProp_BBAsset = { "BBAsset", nullptr, (EPropertyFlags)0x0040000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMagManAIController, BBAsset), Z_Construct_UClass_UBlackboardData_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMagManAIController_Statics::NewProp_BBAsset_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMagManAIController_Statics::NewProp_BBAsset_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMagManAIController_Statics::NewProp_BTAsset_MetaData[] = {
+		{ "ModuleRelativePath", "MagManAIController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMagManAIController_Statics::NewProp_BTAsset = { "BTAsset", nullptr, (EPropertyFlags)0x0040000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMagManAIController, BTAsset), Z_Construct_UClass_UBehaviorTree_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMagManAIController_Statics::NewProp_BTAsset_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMagManAIController_Statics::NewProp_BTAsset_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMagManAIController_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMagManAIController_Statics::NewProp_BBAsset,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMagManAIController_Statics::NewProp_BTAsset,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMagManAIController_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMagManAIController>::IsAbstract,
 	};
@@ -54,11 +81,11 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_AMagManAIController_Statics::PropPointers,
 		nullptr,
 		ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		ARRAY_COUNT(Z_Construct_UClass_AMagManAIController_Statics::PropPointers),
 		0,
 		0x009002A0u,
 		METADATA_PARAMS(Z_Construct_UClass_AMagManAIController_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_AMagManAIController_Statics::Class_MetaDataParams))
@@ -72,7 +99,7 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMagManAIController, 2522968848);
+	IMPLEMENT_CLASS(AMagManAIController, 3897288437);
 	template<> MAGMAN_API UClass* StaticClass<AMagManAIController>()
 	{
 		return AMagManAIController::StaticClass();

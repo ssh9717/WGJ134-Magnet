@@ -16,6 +16,9 @@ AMagManPawn::AMagManPawn()
 	Sphere = CreateAbstractDefaultSubobject<USphereComponent>("Colider", false);
 	Sphere->SetSphereRadius(25.0f);
 	Sphere->SetCollisionProfileName(FName(TEXT("BlockAllDynamic")));
+	//Sphere->SetSimulatePhysics(true);
+	//Sphere->SetEnableGravity(false);
+	//Sphere->SetConstraintMode(EDOFMode::XYPlane);
 	RootComponent = Sphere;
 	// Mesh Component
 	Mesh = CreateDefaultSubobject<USkeletalMeshComponent>("Mesh", false);
@@ -91,6 +94,11 @@ void AMagManPawn::GoRight(float AxisValue)
 	}
 	
 	//UE_LOG(LogTemp, Warning, TEXT("Pawn Velocity\t%s"), *PawnMovement->Velocity.ToString())
+}
+
+const FVector AMagManPawn::getVelocity() const
+{
+	return Velocity;
 }
 
 

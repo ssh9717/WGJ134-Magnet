@@ -364,14 +364,20 @@
     <NMakeOutput>..\..\Binaries\HTML5\MagMan-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\MagMan\BTService_FindStone.cpp" />
+    <ClCompile Include="..\..\Source\MagMan\BTTask_Turn.cpp" />
     <ClCompile Include="..\..\Source\MagMan\EnemyPawn.cpp" />
     <ClCompile Include="..\..\Source\MagMan\MagManAIController.cpp" />
     <ClCompile Include="..\..\Source\MagMan\MagManPawn.cpp" />
     <ClCompile Include="..\..\Source\MagMan\MagManPlayerController.cpp" />
+    <ClCompile Include="..\..\Source\MagMan\StoneActor.cpp" />
+    <ClInclude Include="..\..\Source\MagMan\BTService_FindStone.h" />
+    <ClInclude Include="..\..\Source\MagMan\BTTask_Turn.h" />
     <ClInclude Include="..\..\Source\MagMan\EnemyPawn.h" />
     <ClInclude Include="..\..\Source\MagMan\MagManAIController.h" />
     <ClInclude Include="..\..\Source\MagMan\MagManPawn.h" />
     <ClInclude Include="..\..\Source\MagMan\MagManPlayerController.h" />
+    <ClInclude Include="..\..\Source\MagMan\StoneActor.h" />
     <None Include="..\..\MagMan.uproject" />
     <None Include="..\..\Source\MagMan.Target.cs" />
     <None Include="..\..\Source\MagManEditor.Target.cs" />

@@ -55,6 +55,15 @@
     <ClInclude Include="..\..\Source\MagMan\EnemyPawn.h">
       <Filter>Source\MagMan</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\BTTask_Turn.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\BTService_FindStone.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MagMan\StoneActor.h">
+      <Filter>Source\MagMan</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\MagMan\MagManPlayerController.cpp">
@@ -67,6 +76,15 @@
       <Filter>Source\MagMan</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\MagMan\EnemyPawn.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\BTTask_Turn.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\BTService_FindStone.cpp">
+      <Filter>Source\MagMan</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MagMan\StoneActor.cpp">
       <Filter>Source\MagMan</Filter>
     </ClCompile>
   </ItemGroup>
