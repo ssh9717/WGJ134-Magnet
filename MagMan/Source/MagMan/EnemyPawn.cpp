@@ -6,6 +6,7 @@
 #include "MagManAIController.h"
 #include "Components/InputComponent.h"
 
+using namespace ELogVerbosity;
 
 // Sets default values
 AEnemyPawn::AEnemyPawn()
@@ -37,6 +38,7 @@ AEnemyPawn::AEnemyPawn()
 	}
 	// Movement Component
 	PawnMovement = CreateDefaultSubobject<UFloatingPawnMovement>("PawnMovement", false);
+	PawnMovement->MaxSpeed = 150.0f;
 	PawnMovement->Deceleration = 32000.f;
 	PawnMovement->Acceleration = 8000.f;
 	PawnMovement->TurningBoost = 32.f;
@@ -50,14 +52,14 @@ AEnemyPawn::AEnemyPawn()
 void AEnemyPawn::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame
 void AEnemyPawn::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+	SetActorRotation(FQuat(1.0f, 0, 0, 0.0f), ETeleportType::None);
+	AddMovementInput(DirectionToMove);
 }
 
 // Called to bind functionality to input

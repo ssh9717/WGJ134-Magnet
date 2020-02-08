@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MAGMAN_MagManAIController_generated_h
 
-#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS
-#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execDeleteTarget) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DeleteTarget(); \
+		P_NATIVE_END; \
+	}
+
+
+#define MagMan_Source_MagMan_MagManAIController_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execDeleteTarget) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DeleteTarget(); \
+		P_NATIVE_END; \
+	}
+
+
 #define MagMan_Source_MagMan_MagManAIController_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMagManAIController(); \

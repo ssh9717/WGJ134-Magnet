@@ -18,6 +18,13 @@ class MAGMAN_API AMagManAIController : public AAIController
 public:
 	AMagManAIController();
 
+	UFUNCTION()
+	void DeleteTarget();
+
+	DECLARE_DELEGATE(DeleteTargetDelegate)
+	DeleteTargetDelegate mDelegate;
+
+
 	virtual void OnPossess(APawn* InPawn) override;
 
 private:

@@ -17,11 +17,39 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 	MAGMAN_API UClass* Z_Construct_UClass_AMagManAIController();
 	AIMODULE_API UClass* Z_Construct_UClass_AAIController();
 	UPackage* Z_Construct_UPackage__Script_MagMan();
+	MAGMAN_API UFunction* Z_Construct_UFunction_AMagManAIController_DeleteTarget();
 	AIMODULE_API UClass* Z_Construct_UClass_UBlackboardData_NoRegister();
 	AIMODULE_API UClass* Z_Construct_UClass_UBehaviorTree_NoRegister();
 // End Cross Module References
 	void AMagManAIController::StaticRegisterNativesAMagManAIController()
 	{
+		UClass* Class = AMagManAIController::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "DeleteTarget", &AMagManAIController::execDeleteTarget },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "MagManAIController.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AMagManAIController, nullptr, "DeleteTarget", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AMagManAIController_DeleteTarget()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AMagManAIController_DeleteTarget_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_AMagManAIController_NoRegister()
 	{
@@ -30,6 +58,7 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 	struct Z_Construct_UClass_AMagManAIController_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -48,6 +77,9 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 	UObject* (*const Z_Construct_UClass_AMagManAIController_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_AAIController,
 		(UObject* (*)())Z_Construct_UPackage__Script_MagMan,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_AMagManAIController_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_AMagManAIController_DeleteTarget, "DeleteTarget" }, // 3183175386
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMagManAIController_Statics::Class_MetaDataParams[] = {
@@ -80,11 +112,11 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 		nullptr,
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_AMagManAIController_Statics::PropPointers,
 		nullptr,
 		ARRAY_COUNT(DependentSingletons),
-		0,
+		ARRAY_COUNT(FuncInfo),
 		ARRAY_COUNT(Z_Construct_UClass_AMagManAIController_Statics::PropPointers),
 		0,
 		0x009002A0u,
@@ -99,7 +131,7 @@ void EmptyLinkFunctionForGeneratedCodeMagManAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMagManAIController, 3897288437);
+	IMPLEMENT_CLASS(AMagManAIController, 1052223790);
 	template<> MAGMAN_API UClass* StaticClass<AMagManAIController>()
 	{
 		return AMagManAIController::StaticClass();

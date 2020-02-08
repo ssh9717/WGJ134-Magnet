@@ -23,6 +23,13 @@ AMagManAIController::AMagManAIController()
 	{
 		BTAsset = BTObject.Object;
 	}
+
+	mDelegate.BindUFunction(this, TEXT("DeleteTarget"));
+}
+
+void AMagManAIController::DeleteTarget()
+{
+	Blackboard->SetValueAsObject("TargetActor", nullptr);
 }
 
 void AMagManAIController::OnPossess(APawn * InPawn)
@@ -32,11 +39,17 @@ void AMagManAIController::OnPossess(APawn * InPawn)
 	if (UseBlackboard(BBAsset, Blackboard))
 	{
 		UE_LOG(LogTemp, Warning, TEXT("Use Blackboard"));
-		Blackboard->SetValueAsVector(TEXT("Start"), FVector(.0f, -400.f, .0f ));
-		Blackboard->SetValueAsVector(TEXT("Destination"), FVector(.0f, -100.0f, .0f));
 		if (!RunBehaviorTree(BTAsset))
 		{
+			if (Blackboard->GetValueAsObject("SelfActor") == nullptr)
+			{
+				UE_LOG(LogTemp, Warning, TEXT("SelfActor was nullptr"));
+				Blackboard->SetValueAsObject("SelfActor", GetPawn());
+			}
+
 			UE_LOG(LogTemp, Warning, TEXT("BT Error"));
 		}
 	}
 }
+
+

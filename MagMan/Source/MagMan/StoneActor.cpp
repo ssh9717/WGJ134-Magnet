@@ -3,6 +3,7 @@
 
 #include "StoneActor.h"
 #include "ConstructorHelpers.h"
+#include "MagManAIController.h"
 #include "MagManPawn.h"
 #include "EnemyPawn.h"
 
@@ -71,10 +72,17 @@ void AStoneActor::OnHit(UPrimitiveComponent * HitComp, AActor * OtherActor, UPri
 		FVector PushDirection = (Cast<AMagManPawn>(OtherActor))->getVelocity();
 		Sphere->AddImpulse(PushDirection * 30000.0f);
 	}
-	// Push back to opposite direction
+	// Destroy Stone
 	else if (ActorClass == AEnemyPawn::StaticClass())
 	{
-
+		AMagManAIController::DeleteTargetDelegate mDelegate;
+		UE_LOG(LogTemp, Warning, TEXT("Before Execute"));
+		if (mDelegate.IsBound())
+		{
+			UE_LOG(LogTemp, Warning, TEXT("Excuting"));
+			mDelegate.Execute();
+		}
+		Destroy();
 	}
 	else
 	{

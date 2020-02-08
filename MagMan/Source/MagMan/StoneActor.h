@@ -24,6 +24,9 @@ public:
 	UPROPERTY(VisibleAnywhere)
 	UAnimationAsset* AnimAsset;
 
+	//DECLARE_DELEGATE(DeleteTargetDelegate)
+	//DeleteTargetDelegate
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
